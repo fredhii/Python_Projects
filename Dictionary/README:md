@@ -1,0 +1,26 @@
+----------------------
+Run Program
+----------------------  
+<br />
+```
+python3 dictionary.py
+```
+
+-------------------------
+Description
+-------------------------
+Look for a matching word and prints definition about it  
+simple format...  
+
+### Example
+
+```sh
+Insert word to search for: 
+supermann
+
+Did you mean superman insted?
+Press Y to confirm otherwise press any other key: y
+
+ A powerful hallucinogenic drug manufactured from lysergic
+ acid.
+```
