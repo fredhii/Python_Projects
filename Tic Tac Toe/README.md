@@ -7,13 +7,12 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/4n0rO0t.png" width="80" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1200px-Tic_tac_toe.svg.png" width="80" height="80">
   
-  <h3 align="center">Life's Game</h3>
+  <h3 align="center">tic Tac Toe</h3>
 
   <p align="center">
-        Cellular automaton that can simulate a <br \>
-        universal constructor or any Turing machine!
+        win agains the machine
     <br />
     <a href="https://github.com/fredhii/Python_Projects/issues">Report Bug</a>
     ·
@@ -23,22 +22,19 @@
 
 
 ## About The Project
-![Image](https://lh3.googleusercontent.com/proxy/p84bE9YhRma93OrqNAMZL0yT-QBIBlOSUE511MzWOJy2Xi5rHwq7iqNjZ_OR6ZwjEmXmm9xlgURiF9RneWb-)
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tic-tac-toe-game-1.svg/479px-Tic-tac-toe-game-1.svg.png)
 
-Based on a few mathematical rules a cell can be alive, dead or it can multiply. Depending on the initial conditions setted.
+You and the machine will write either O or X in a pattern of nine squares. It is won by the first player who places three Os or three Xs in a straight line.
 
 
 ## Usage
 ```sh
-python3 life.py
+python3 tic.py
 ```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-
-## Acknowledgements
-* In Honot to [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway)
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/fredhii/Python_Projects?style=flat-square
