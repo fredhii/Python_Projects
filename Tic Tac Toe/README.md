@@ -9,11 +9,11 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1200px-Tic_tac_toe.svg.png" width="80" height="80">
   
-  <h3 align="center">tic Tac Toe</h3>
+  <h3 align="center">Tic Tac Toe</h3>
 
   <p align="center">
-        win agains the machine
-    <br />
+        <em>win agains the machine</em>
+    <br /><br />
     <a href="https://github.com/fredhii/Python_Projects/issues">Report Bug</a>
     ·
     <a href="https://github.com/fredhii/Python_Projects/issues">Request Feature</a>
@@ -22,7 +22,9 @@
 
 
 ## About The Project
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tic-tac-toe-game-1.svg/479px-Tic-tac-toe-game-1.svg.png)
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tic-tac-toe-game-1.svg/479px-Tic-tac-toe-game-1.svg.png">
+</p>
 
 You and the machine will write either O or X in a pattern of nine squares. It is won by the first player who places three Os or three Xs in a straight line.
 

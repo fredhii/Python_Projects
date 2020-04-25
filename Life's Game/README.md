@@ -12,9 +12,9 @@
   <h3 align="center">Life's Game</h3>
 
   <p align="center">
-        Cellular automaton that can simulate a <br \>
-        universal constructor or any Turing machine!
-    <br />
+        <em>Try to simulate an <br \>
+        universal construction or any Turing machine!</em>
+    <br /><br />
     <a href="https://github.com/fredhii/Python_Projects/issues">Report Bug</a>
     ·
     <a href="https://github.com/fredhii/Python_Projects/issues">Request Feature</a>
@@ -23,9 +23,11 @@
 
 
 ## About The Project
-![Image](https://lh3.googleusercontent.com/proxy/p84bE9YhRma93OrqNAMZL0yT-QBIBlOSUE511MzWOJy2Xi5rHwq7iqNjZ_OR6ZwjEmXmm9xlgURiF9RneWb-)
+<p align="center">
+  <img src="https://i.imgur.com/3cuDgs0.gif">
+</p>
 
-Based on a few mathematical rules a cell can be alive, dead or it can multiply. Depending on the initial conditions setted.
+Cellular automaton based on some mathematical rules where we display a cell and this one can be alive, dead or it can multiply. Depending on the initial conditions setted. You set those conditions, Let's test it out.
 
 
 ## Usage

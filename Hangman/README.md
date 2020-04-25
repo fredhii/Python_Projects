@@ -12,8 +12,8 @@
   <h3 align="center">Hangman Game</h3>
 
   <p align="center">
-        try to save the kind man
-    <br />
+        <em>try to save the kind man</em>
+    <br /><br />
     <a href="https://github.com/fredhii/Python_Projects/issues">Report Bug</a>
     ·
     <a href="https://github.com/fredhii/Python_Projects/issues">Request Feature</a>
@@ -22,7 +22,9 @@
 
 
 ## About The Project
-![Image](https://lh3.googleusercontent.com/-dWhuUvORfKpUWs4iUXiODQCztZsvgij8jsXIp_9ayknjx8r1KqyMi2wCm981-Jhaw)
+<p align="center">
+  <img src="https://i.imgur.com/DneCGC1.png"> <img src="https://i.imgur.com/y7QPGsu.png">
+</p>
 
 You are shown a set of blank letters that match a word and you have to guess what these letters are to reveal the hidden word. You guess by writing letters on the terminal.
 

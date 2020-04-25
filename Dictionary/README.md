@@ -7,12 +7,12 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/bWWPFsC.png" width="80" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Accessories-dictionary.svg/1200px-Accessories-dictionary.svg.png" width="80" height="80">
   
-  <h3 align="center">Mini Projects</h3>
+  <h3 align="center">Simple Dictionary</h3>
 
   <p align="center">
-        <em>Take a look to different projects and games</em>
+        <em>look up for words</em>
     <br /><br />
     <a href="https://github.com/fredhii/Python_Projects/issues">Report Bug</a>
     ·
@@ -21,27 +21,17 @@
 </p>
 
 
-## Content
+## About The Project
+<p align="center">
+    <img src="https://i.imgur.com/GyrUJ8k.png">
+</p>
 
-| Project  | URL |
-| ------------- | ------------- |
-| Dice Rolling  | [./Dice](./Dice)  |
-| Dictionary  | [./Dictionary](./Dictionary)  |
-| Hangman  | [./Hangman](./Hangman)  |
-| Tic Tac Toe  | [./Tic Tac Toe](https://github.com/fredhii/Python_Projects/tree/master/Tic%20Tac%20Toe)  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Life's game}  | [./Life's Game](https://github.com/fredhii/Python_Projects/tree/master/Life's%20Game)  |
+Python scripts that looks for matching words in a json file and return deifinition from it   
 
+## Usage
+```sh
+python3 dictionary.py
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
