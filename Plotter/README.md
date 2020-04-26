@@ -7,12 +7,12 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/bWWPFsC.png" width="80" height="80">
-
-  <h3 align="center">Mini Projects</h3>
+  <img src="https://i.imgur.com/0Pgk7PG.png" width="80" height="80">
+  
+  <h3 align="center">Plotter</h3>
 
   <p align="center">
-        <em>Take a look to different projects and games</em>
+        <em>Visualize your data</em>
     <br /><br />
     <a href="https://github.com/fredhii/Python_Projects/issues">Report Bug</a>
     ·
@@ -21,31 +21,20 @@
 </p>
 
 
-## Content
+## About The Project
+<p align="center">
+  <img src="https://i.imgur.com/qZj5AY7.png">  <img src="https://i.imgur.com/d91Yvr0.png">
+</p>
 
-| Project  | URL |
-| ------------- | ------------- |
-| Dice Rolling  | [./Dice](./Dice)  |
-| Dictionary  | [./Dictionary](./Dictionary)  |
-| Hangman  | [./Hangman](./Hangman)  |
-| Tic Tac Toe  | [./Tic Tac Toe](https://github.com/fredhii/Python_Projects/tree/master/Tic%20Tac%20Toe)  |
-| Ploter  | [./Plotter](./Plotter)  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Life's game  | [./Life's Game](https://github.com/fredhii/Python_Projects/tree/master/Life's%20Game)  |
+Jupyter notebook to visualize your data or test basic data visualization
 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+
+## Acknowledgements
+* In Honot to [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway)
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/fredhii/Python_Projects?style=flat-square
