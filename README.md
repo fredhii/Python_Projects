@@ -30,9 +30,9 @@
 | Hangman  | [./Hangman](./Hangman)  |
 | Tic Tac Toe  | [./Tic Tac Toe](https://github.com/fredhii/Python_Projects/tree/master/Tic%20Tac%20Toe)  |
 | Ploter  | [./Plotter](./Plotter)  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
-| Under Construction...  | Under Construction...  |
+| GeoPlot  | [./Geoplot](./Geoplot)  |
+| Donations Analysis  | [./Donations Analysis](./https://github.com/fredhii/Python_Projects/tree/master/Donations%20Analysis)  |
+| Turtle Graphics  | [./Turtle Graphics](./Turtle Graphics)  |
 | Under Construction...  | Under Construction...  |
 | Under Construction...  | Under Construction...  |
 | Under Construction...  | Under Construction...  |

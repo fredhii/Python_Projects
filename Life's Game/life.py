@@ -65,7 +65,7 @@ while True:
         for x in range(0, nyC):
 
             if not pauseExect:
-                # Calculate number of near alive cells, use of Toroidal field 
+                # Calculate number of near alive cells, use of Toroidal field
                 n_neigh =   gameState[(x - 1) % nxC, (y - 1) % nyC] + \
                             gameState[(x)     % nxC, (y - 1) % nyC] + \
                             gameState[(x + 1) % nxC, (y - 1) % nyC] + \
