@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c5/d3/2e/c5d32e67464db78b0ac1390d94f7710f.png" width="80" height="80">
+  <img src="https://vignette.wikia.nocookie.net/huntcook/images/c/cf/Ingredients_-_Egg.png/revision/latest/top-crop/width/360/height/450?cb=20160821070022" width="80" height="95">
   
   <h3 align="center">Egg Catcher</h3>
 
@@ -27,7 +27,7 @@
 </p>
 
 
-It happens to be raining eggs, try to catch them all before they touch the ground
+It happens to be raining eggs, try to catch them all before they reach the ground
 
 ## Usage
 ```sh
