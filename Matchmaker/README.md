@@ -7,12 +7,12 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/bWWPFsC.png" width="80" height="80">
-
-  <h3 align="center">Mini Projects</h3>
+  <img src="https://cdn0.iconfinder.com/data/icons/gambling-23/50/48-512.png" width="80" height="80">
+  
+  <h3 align="center">Matchmaker</h3>
 
   <p align="center">
-        <em>Take a look to different projects and games</em>
+        <em>Find matches</em>
     <br /><br />
     <a href="https://github.com/fredhii/Python_Projects/issues">Report Bug</a>
     ·
@@ -21,24 +21,18 @@
 </p>
 
 
-## Content
+## About The Project
+<p align="center">
+    <img src="https://i.imgur.com/H5z7yCY.gif">
+</p>
 
-| Project  | URL |
-| ------------- | ------------- |
-| Dice Rolling  | [./Dice](./Dice)  |
-| Dictionary  | [./Dictionary](./Dictionary)  |
-| Hangman  | [./Hangman](./Hangman)  |
-| Tic Tac Toe  | [./Tic Tac Toe](./Tic%20Tac%20Toe)  |
-| Ploter  | [./Plotter](./Plotter)  |
-| GeoPlot  | [./Geoplot](./Geoplot)  |
-| Donations Analysis  | [./Donations Analysis](./Donations%20Analysis)  |
-| Turtle Graphics  | [./Turtle Graphics](./Turtle%20Graphics)  |
-| Caterpillar Game  | [./Caterpillar Game](Caterpillar%20Game)  |
-| Matchmaker  | [./Matchmaker](./Matchmaker)  |
-| Database  | [./Database](./Database)  |
-| Egg Catcher  | [./Egg Catcher](Egg%20Catcher)  |
-| Life's game  | [./Life's Game](./Life's%20Game)  |
 
+Try to find all the possible matches
+
+## Usage
+```sh
+python3 match.py
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
